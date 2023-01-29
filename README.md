@@ -10,6 +10,8 @@ Contributions are always welcome!
 ## Basics
 
 - [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
+![image](https://user-images.githubusercontent.com/9106591/215336841-967a48b6-dbdf-43e0-b675-09cc3586783f.png)
+
 - [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
 ## Linux
